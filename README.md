@@ -4,7 +4,7 @@ Standard C++ and [FastFlow](https://github.com/fastflow/fastflow) implementation
 - `make`
 - single thread: `./out-st img/ watermark.jpg`
 - threadpool: `./out-tp img/ watermark.jpg [strategy] [par degr]`
-- fasttext: `./out-ff img/ watermark.jpg [strategy] [par degr]`
+- fastflow: `./out-ff img/ watermark.jpg [strategy] [par degr]`
 
 [strategy]:
 - 0 : one image per thread
